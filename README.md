@@ -11,3 +11,4 @@ Informacje na temat bazy danych:
 * Baza posiada relacje jeden do wielu oraz wiele do wielu - w relacji wiele do wielu wykorzystałem tabele pośredniczące.
 * Wykonałem migrację wykorzystując konsolę menedżera pakietów oraz komendy: "add-migration BazaTestowTest" oraz "update-database –verbose".
 
+![Schemat bazy danych](SchematBazyDanych.PNG)
